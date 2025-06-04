@@ -1,0 +1,19 @@
+/* styles.css */
+
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #ffcccc; /* Fondo rosa claro */
+}
+
+h1 {
+    color: #800000; /* Rojo oscuro */
+    font-size: 48px; /* Texto grande para que se note */
+    margin-top: 100px; /* Separación del borde superior */
+}
+
+p {
+    color: #008000; /* Verde */
+    font-size: 24px;
+}
